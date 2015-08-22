@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainBackground">#2a3328</color>
+    <color name="containerColor">#357583</color>
+    <color name="titleColor">#f9ce4a</color>
+</resources>
