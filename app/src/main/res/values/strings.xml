@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">The Coding Love - Beta 0.1</string>
+    <string name="app_name">TCL - Beta 0.1</string>
     <string name="app_short_name">TCL</string>
     <string name="ver_number">Beta 0.1</string>
     <string name="share_settings">Share</string>
-    <string name="powered_settings">Powered by tweego</string>
+    <string name="powered_settings">Powered by sdstuff</string>
     <string name="search">Search Index</string>
     <string name="OkRetriving">Ok</string>
 </resources>

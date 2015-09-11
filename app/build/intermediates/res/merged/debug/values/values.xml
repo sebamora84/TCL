@@ -218,9 +218,9 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <!-- From: file:/C:/Users/Sebastian/AndroidStudioProjects/TCL/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="app_name">The Coding Love - Beta 0.1</string>
+    <string name="app_name">TCL - Beta 0.1</string>
     <string name="app_short_name">TCL</string>
-    <string name="powered_settings">Powered by tweego</string>
+    <string name="powered_settings">Powered by sdstuff</string>
     <string name="search">Search Index</string>
     <string name="share_settings">Share</string>
     <!-- From: file:/C:/Users/Sebastian/AndroidStudioProjects/TCL/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
