@@ -4,13 +4,14 @@
         <item
         android:id="@+id/menu_item_share"
         android:title="@string/share_settings"
-
+        android:icon="@drawable/ic_share_white"
         android:actionProviderClass="android.widget.ShareActionProvider"
-        app:showAsAction="ifRoom|withText"/>
+        app:showAsAction="always|withText"/>
         <item
             android:id="@+id/action_settings"
             android:title="@string/powered_settings"
+            android:icon="@drawable/ic_mlstuff"
             android:orderInCategory="100"
-            app:showAsAction="never" />
+            app:showAsAction="always|withText" />
 </menu>
 <!-- From: file:/C:/Users/Sebastian/AndroidStudioProjects/TCL/app/src/main/res/menu/menu_tcl.xml -->
