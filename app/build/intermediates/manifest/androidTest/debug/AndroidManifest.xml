@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sdstuff.apps.tcl.test">
+    package="com.mlstuff.apps.tcl.test">
 
     <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="22" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.sdstuff.apps.tcl"
+                     android:targetPackage="com.mlstuff.apps.tcl"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.sdstuff.apps.tcl"/>
+                     android:label="Tests for com.mlstuff.apps.tcl"/>
 </manifest>
